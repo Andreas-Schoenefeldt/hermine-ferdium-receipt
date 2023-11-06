@@ -1,0 +1,10 @@
+{
+  "id": "thw-hermine",
+  "name": "Hermine",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "https://github.com/Andreas-Schoenefeldt/hermine-ferdium-receipt",
+  "config": {
+    "serviceURL": "https://app.thw-messenger.de/thw/app"
+  }
+}
